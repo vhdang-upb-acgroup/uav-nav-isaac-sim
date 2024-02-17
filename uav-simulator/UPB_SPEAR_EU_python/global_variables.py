@@ -7,6 +7,6 @@
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 #
 
-EXTENSION_TITLE = "upb_spear"
+EXTENSION_TITLE = "UPB-SPEAR-EU"
 
-EXTENSION_DESCRIPTION = "Isaac Sim extension"
+EXTENSION_DESCRIPTION = "Testing environment"

@@ -5,8 +5,8 @@ order = 0
 [package]
 version = "1.0.0"
 category = "Simulation"
-title = "upb_spear"
-description = "Isaac Sim extension"
+title = "UPB-SPEAR-EU"
+description = "Testing environment"
 authors = ["NVIDIA"]
 repository = ""
 keywords = []
@@ -22,4 +22,4 @@ icon = "data/icon.png"
 "omni.isaac.core" = {}
 
 [[python.module]]
-name = "upb_spear_python"
+name = "UPB_SPEAR_EU_python"

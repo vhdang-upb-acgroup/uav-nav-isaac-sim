@@ -4,4 +4,4 @@
 
 ### Added
 
-- Initial version of upb_spear Extension
+- Initial version of UPB-SPEAR-EU Extension
