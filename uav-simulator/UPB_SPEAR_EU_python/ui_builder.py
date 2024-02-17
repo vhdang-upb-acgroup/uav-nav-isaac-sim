@@ -159,8 +159,11 @@ class UIBuilder:
         their assets to the World (which has low overhead).  See commented code section in this function.
         """
         # Load the UR10e
-        robot_prim_path = "/ur10e"
-        path_to_robot_usd = get_assets_root_path() + "/Isaac/Robots/UniversalRobots/ur10e/ur10e.usd"
+        # robot_prim_path = "/ur10e"
+        # path_to_robot_usd = get_assets_root_path() + "/Isaac/Robots/UniversalRobots/ur10e/ur10e.usd"
+        # Modify by Huyen
+        robot_prim_path = "/iris"
+        path_to_robot_usd = "/home/huyen_rat_admin/Projects/open-source/uav-nav-isaac-sim/uav/iris.usd"
 
         # Do not reload assets when hot reloading.  This should only be done while extension is under development.
         # if not is_prim_path_valid(robot_prim_path):
